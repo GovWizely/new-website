@@ -1,0 +1,29 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="{{ '/images/robot-capitol.jpg' | relative_url }}" alt="">
+
+      {% include component-socials.html %}
+    </div>
+
+    <div class="about__content">
+      <h2 class="title">About Us</h2>
+      <p class="subtitle subtitle--light">With over two decades (!) of experience in search and open source technologies, we are excited 
+      about the evolution into Artificial Intelligence (AI), Large Language Models (LLM), and Machine Learning (ML). 
+      </p>
+
+      <p>While technologies evolve, the amount of work that it takes to make an effective applications for your users tends to stay the same.
+      The majority of works lies the quality of the data and the speed and dependability of the services.</p>
+
+      <p>We focus on helping government agencies build dependable systems. Buzzwords including,
+      but not to limited business intelligence, data visualization, search applications, etc.</p>
+
+
+      <a href="#" class="cta button--fill contact-trigger js-contact">Get in Touch</a>
+    </div>
+  </div>
+</section>

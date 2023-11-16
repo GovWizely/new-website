@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/thanks</loc>
+<lastmod>2023-11-14T19:22:21-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/ukraine-osint</loc>
+<lastmod>2023-06-25T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/project/devportal</loc>
+<lastmod>2023-01-03T19:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/project/no-gigo</loc>
+<lastmod>2023-07-12T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/project/hosted-llm</loc>
+<lastmod>2023-07-12T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/project/osint</loc>
+<lastmod>2023-08-12T20:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/project/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
