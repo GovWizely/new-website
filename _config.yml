@@ -1,7 +1,7 @@
 site: GovWizely, LLC
 
-url: http://www.govwizely.com/
-baseurl: 
+url: https://www.govwizely.com
+baseurl:
 
 collections:
   pages:

@@ -1,7 +1,7 @@
 ---
 title: Share Your Data / Feed LLMs
 subtitle: We'll serve the good data -- Focus on Your Business 
-date: 2023-01-04 00:00:00
+date: 2023-08-01 00:00:00
 description: Organizations that do not invest in sharing their data reliably lose goodwill with business partners and the developer community. 
 featured_image: /images/wheat-portal.jpg
 accent_color: '#4C60E6'

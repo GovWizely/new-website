@@ -1,7 +1,7 @@
 ---
 title: LLM Co-pilot Applications
 subtitle: Provide Tools to Help Employees
-date: 2023-07-13 00:00:00
+date: 2023-08-02 00:00:00
 description: Data pipelines fuel LLMs
 featured_image: /images/robot-tractor.jpg
 accent_color: '#4C60E6'
